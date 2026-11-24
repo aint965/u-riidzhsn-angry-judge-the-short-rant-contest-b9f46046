@@ -7,10 +7,10 @@ Writes one short, funny rant about a small everyday annoyance to
 import os
 
 RANT = (
-    "My smoke detector chirps once at 3:12 a.m. One beep, then silence, "
-    "just long enough for me to lie awake deciding whether my house is "
-    "on fire or just haunted. I've changed the battery twice. It's a "
-    "taunt \u2014 from nine feet up, where it knows I own no ladder."
+    "My neighbour starts his leaf blower at 7 a.m. on a Saturday. There "
+    "are no leaves. The leaves left in October. He's just moving dust "
+    "from one side of the driveway to the other, like a man who believes "
+    "the noise is the work. He waves when he sees me. He waves."
 )
 
 
